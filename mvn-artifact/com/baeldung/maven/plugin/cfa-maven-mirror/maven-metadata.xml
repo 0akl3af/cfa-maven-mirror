@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.baeldung.maven.plugin</groupId>
+  <artifactId>cfa-maven-mirror</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20211024070902</lastUpdated>
+  </versioning>
+</metadata>
